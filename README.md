@@ -95,11 +95,3 @@ Yangi g‘oyalar bo‘lsa — marhamat!
 MIT License
 
 ---
-
-Agar xohlasang:
-
-* 🔥 **README’ni inglizcha + professional qilib beraman**
-* 📸 **Screenshot qo‘shib beraman**
-* ⭐ **GitHub star olishga mos dizayn qilaman**
-
-Qaysini qilamiz?
